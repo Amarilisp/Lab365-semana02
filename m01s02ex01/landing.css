@@ -1,0 +1,13 @@
+h1 {font-family: Helvetica; text-align: center;}
+
+.sabo {text-align:justify; width: 60%; margin-left: 20%; ;}
+
+body {background-image: url('hortelafundo.png');
+      background-repeat: no-repeat;
+      background-size: 30%;
+      background-position: right top;
+    }
+
+.imasabo {text-align: center; width: 60%; margin-left: 20%; ;}
+
+.formulario {text-align: center; width: 60%; margin-left: 20%;}
